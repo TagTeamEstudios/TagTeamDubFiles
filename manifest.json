@@ -1,0 +1,14 @@
+{
+    "version": "1.0.0",
+    "lastUpdate": "2024-03-17",
+    "files": [
+        {
+            "name": "exemplo_dublagem_1.mp3",
+            "version": "1.0.0",
+            "size": 1024000,
+            "checksum": "sha256_hash_aqui",
+            "downloadUrl": "https://raw.githubusercontent.com/TagTeamEstudios/TagTeamDubFiles/main/files/exemplo_dublagem_1.mp3",
+            "status": "active"
+        }
+    ]
+} 
